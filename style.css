@@ -1,0 +1,41 @@
+html, body {
+  margin: 0;
+  padding: 5;
+  background-image:url("imagem/fundo.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+canvas {
+  display: block;
+  
+}
+
+#cjogo {
+  display: flex;
+  justify-content: center;
+
+}
+
+#cabeçalho{
+  display: flex;
+  justify-content: center;
+}
+
+#cabeçalho img{
+  padding-bottom: 12px;
+  width: 100%;
+  
+}
+
+#rodapé{
+  display: flex;
+  justify-content: center;
+}
+
+#rodapé img{
+  padding-top: 12px;
+  width: 100%;
+  
+}
+
